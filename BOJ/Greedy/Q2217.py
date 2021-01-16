@@ -1,5 +1,4 @@
 #로프 (백준 - 그리디 유형)
-
 import sys
 input = sys.stdin.readline
 
@@ -13,7 +12,7 @@ for i in range(n):
 #오름차순으로 정렬
 rope.sort()
 
-#로프로 들어올릴 수 있는 물체의 최대 중량 구하기
+#최대 중량 값 비교
 limit =[]
 for i in range(n):
     limit.append((n-i)*rope[i])
