@@ -17,4 +17,5 @@ limit =[]
 for i in range(n):
     limit.append((n-i)*rope[i])
 
-print(max(limit))
+answer = max(limit)
+print(answer)
