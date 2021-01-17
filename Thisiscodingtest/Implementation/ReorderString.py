@@ -7,16 +7,19 @@ s.sort()
 #숫자랑 문자 분리
 num = [str(i) for i in range(10)]
 num_result = 0
-str_result=''
+result=''
+count = 0 #문자열에서 숫자 포함 여부를 파악
 
 for i in range(len(s)):
     if s[i] in num:
         num_result += int(s[i])
     else:
-        str_result = str_result+s[i]
+        result = result+s[i]
 
 #문자열 결과와 숫자 결과 합치기
-result = str_result+str(num_result)
+if count!=0:
+    result = str_result+str(num_result)
+    
 print(result)
 
 
