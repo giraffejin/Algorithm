@@ -1,0 +1,26 @@
+#구현 기출 문제- 문자열 재정렬 (chapter12-08)
+
+s = list(input())
+#정렬하면 숫자, 문자 순으로 오름차순 정렬
+s.sort()
+
+#숫자랑 문자 분리
+num = [str(i) for i in range(10)]
+num_result = 0
+str_result=''
+
+for i in range(len(s)):
+    if s[i] in num:
+        num_result += int(s[i])
+    else:
+        str_result = str_result+s[i]
+
+#문자열 결과와 숫자 결과 합치기
+result = str_result+str(num_result)
+print(result)
+
+
+
+
+
+
