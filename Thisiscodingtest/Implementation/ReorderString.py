@@ -18,7 +18,7 @@ for i in range(len(s)):
 
 #문자열 결과와 숫자 결과 합치기
 if count!=0:
-    result = str_result+str(num_result)
+    result = result+str(num_result)
     
 print(result)
 
