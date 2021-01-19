@@ -1,4 +1,5 @@
 #구현 기출 문제 - 문자열 압축 (chapter12-09)
+#https://programmers.co.kr/learn/courses/30/lessons/60057
 
 def solution(s):
     max_len = len(s)//2 #묶을 수 있는 최대 단위
