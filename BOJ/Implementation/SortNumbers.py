@@ -1,4 +1,5 @@
 #수 정렬하기 (백준 - 구현 유형)
+#https://www.acmicpc.net/problem/2750
 
 import sys
 input = sys.stdin.readline
