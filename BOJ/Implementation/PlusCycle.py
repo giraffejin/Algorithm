@@ -1,4 +1,5 @@
 #더하기 사이클 (백준 - 구현 유형)
+#https://www.acmicpc.net/problem/1110
 
 n = input()
 new = ''
