@@ -1,4 +1,5 @@
 #그리디 기출 문제 - 무지의 먹방 라이브(chapter11-06) 답안 해설
+#https://programmers.co.kr/learn/courses/30/lessons/42891
 
 import heapq
 
