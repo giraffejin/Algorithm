@@ -1,4 +1,5 @@
 #2007년 (백준 - 구현 유형)
+#https://www.acmicpc.net/problem/1924
 
 #월과 일 입력
 x,y = map(int,input().split())

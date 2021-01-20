@@ -1,4 +1,5 @@
 #그리디 기출 문제 - 무지의 먹방 라이브 (chapter11-06)
+#https://programmers.co.kr/learn/courses/30/lessons/42891
 #아래의 풀이는 입력값이 커지는 경우 시간 초과가 발생
 #책에서 제공하는 테스트 데이터 값에 대해서는 올바른 값 출력
 
