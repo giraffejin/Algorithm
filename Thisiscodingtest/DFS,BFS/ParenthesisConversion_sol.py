@@ -1,5 +1,5 @@
 # 이것이 코딩테스트다
-# Chapter12-18: DFS/BFS 기출 괄호 변환 답안 해설
+# Chapter13-18: DFS/BFS 기출 괄호 변환 답안 해설
 # https://programmers.co.kr/learn/courses/30/lessons/60058
 
 #균형잡힌 괄호 문자열의 인덱스 반환

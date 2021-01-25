@@ -1,5 +1,5 @@
 # 이것이 코딩테스트다
-# Chapter12-20: DFS/BFS 기출 감시 피하기
+# Chapter13-20: DFS/BFS 기출 감시 피하기
 #https://www.acmicpc.net/problem/18428
 
 #장애물을 설치할 수 있는 모든 조합에 대하여 학생이 감지되는지를 확인

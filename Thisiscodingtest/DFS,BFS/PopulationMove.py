@@ -1,5 +1,5 @@
 # 이것이 코딩테스트다
-# Chapter12-21: DFS/BFS 기출 인구 이동
+# Chapter13-21: DFS/BFS 기출 인구 이동
 # https://www.acmicpc.net/problem/16234
 
 # 백준 사이트에서 채점하는 경우 80%구간에서 시간 초과 발생

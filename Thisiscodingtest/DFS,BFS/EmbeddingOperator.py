@@ -1,5 +1,5 @@
 # 이것이 코딩테스트다
-# Chapter12-19: DFS/BFS 기출 연산자 끼워 넣기
+# Chapter13-19: DFS/BFS 기출 연산자 끼워 넣기
 #https://www.acmicpc.net/problem/14888
 
 #itertools 라이브러리를 통해 가능한 모든 순열을 만들고 집합을 활용해 중복되는 순열을 제거

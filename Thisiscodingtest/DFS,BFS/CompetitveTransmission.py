@@ -1,5 +1,5 @@
 # 이것이 코딩테스트다
-# Chapter12-17: DFS/BFS 기출 경쟁적 전염
+# Chapter13-17: DFS/BFS 기출 경쟁적 전염
 #https://www.acmicpc.net/problem/18405
 
 #BFS를 활용하여 문제를 해결하고 낮은 번호부터 증식하기 위해 큐에는 낮은 바이러스의 번호부터 삽입한다

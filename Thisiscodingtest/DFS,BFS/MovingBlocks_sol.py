@@ -1,5 +1,5 @@
 # 이것이 코딩테스트다
-# Chapter 12-22: DFS/BFS 기출 블록 이동하기 답안 해설
+# Chapter 13-22: DFS/BFS 기출 블록 이동하기 답안 해설
 # https://programmers.co.kr/learn/courses/30/lessons/60063
 
 #간선의 비용이 모두 1로 동일하므로 BFS를 이용해 최적의 해를 구할 수 있다

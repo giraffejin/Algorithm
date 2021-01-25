@@ -1,5 +1,5 @@
 # 이것이 코딩테스트다
-# Chapter12-19: DFS/BFS 기출 연산자 끼워 넣기 답안 해설
+# Chapter13-19: DFS/BFS 기출 연산자 끼워 넣기 답안 해설
 #https://www.acmicpc.net/problem/14888
 
 # 모든 연산자 순열의 경우를 구하는 과정으로 깊이 우선 탐색(DFS)를 활용
