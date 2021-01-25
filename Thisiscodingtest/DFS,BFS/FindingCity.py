@@ -1,5 +1,5 @@
 #이것이 코딩테스트다
-#Chapter12-15: DFS/BFS 기출 특정 거리의 도시 찾기
+#Chapter13-15: DFS/BFS 기출 특정 거리의 도시 찾기
 #https://www.acmicpc.net/problem/18352
 
 #모든 간선의 길이가 동일하므로 BFS를 활용하여 최단 거리 값을 계산
