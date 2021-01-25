@@ -1,5 +1,5 @@
 #이것이 코딩테스트다
-#Chapter12-15: DFS/BFS 기출 특정 거리의 도시 찾기 답안 해설
+#Chapter13-15: DFS/BFS 기출 특정 거리의 도시 찾기 답안 해설
 #https://www.acmicpc.net/problem/18352
 
 #별도의 방문 노드를 저장하는 visited 배열을 사용하지 않고 처음의 최단 거리를 -1로 초기화
