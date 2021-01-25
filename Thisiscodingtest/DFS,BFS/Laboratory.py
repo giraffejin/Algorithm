@@ -1,5 +1,5 @@
 #이것이 코딩테스트다
-#Chapter12-16: DFS/BFS 기출 특정 연구소
+#Chapter13-16: DFS/BFS 기출 특정 연구소
 #https://www.acmicpc.net/problem/14502
 
 #바이러스가 확산에는 DFS를 활용하고 벽을 세우는 경우의 수는 조합 라이브러리를 활용
